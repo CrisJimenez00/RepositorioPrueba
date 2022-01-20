@@ -10,7 +10,7 @@ package prueba;
  */
 public class ClasePrueba {
 
-    private int numero;
+    private int numeroEntero;
 
     public ClasePrueba() {
     }
